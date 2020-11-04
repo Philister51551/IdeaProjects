@@ -9,7 +9,7 @@ public class Test {
         Euler euler=new Euler();
         euler.process();
 //        euler.printRes();
-        /*隐式欧拉调用递归次数太多抛出异常*/
+        /*隐式欧拉使用递归和循环均可完成*/
         ImpEuler impEuler=new ImpEuler();
         impEuler.process();
         //impEuler.printRes();
