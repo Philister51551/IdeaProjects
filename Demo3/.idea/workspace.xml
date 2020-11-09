@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f6abe06-47e5-43f9-a99c-ec4c73c8675a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jV4yVzAFqNZHDSgmX0llkone2X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="VirtualDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VirtualDemo" />
+      <module name="Demo3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VirtualDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f6abe06-47e5-43f9-a99c-ec4c73c8675a" name="Default Changelist" comment="" />
+      <created>1603876179526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603876179526</updated>
+      <workItem from="1603876180765" duration="3914000" />
+      <workItem from="1603933870788" duration="2460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1206" y="404" width="441" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603876289041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1206" y="404" width="441" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1603876289041" />
+    <state width="929" height="390" key="GridCell.Tab.0.bottom" timestamp="1603896403497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="929" height="390" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603896403497" />
+    <state width="929" height="390" key="GridCell.Tab.0.center" timestamp="1603896403497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="929" height="390" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603896403497" />
+    <state width="929" height="390" key="GridCell.Tab.0.left" timestamp="1603896403497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="929" height="390" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603896403497" />
+    <state width="929" height="390" key="GridCell.Tab.0.right" timestamp="1603896403497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="929" height="390" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603896403497" />
+    <state x="1113" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1603933869846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1113" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603933869846" />
+    <state x="1095" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1603896325939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1095" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603896325939" />
+  </component>
+</project>
