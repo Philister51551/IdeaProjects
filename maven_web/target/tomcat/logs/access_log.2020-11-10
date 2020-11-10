@@ -1,0 +1,1 @@
+0:0:0:0:0:0:0:1 - - [10/Nov/2020:18:28:03 +0800] "GET /maven_web/MyServlet HTTP/1.1" 200 52 http-bio-8080-exec-1 550
