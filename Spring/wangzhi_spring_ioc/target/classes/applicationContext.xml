@@ -2,7 +2,12 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--    <bean id="userDao" class="com.wangzhi.dao.impl.UserDaoImpl" scope="prototype"></bean>-->
+<!--    <bean id="userDao" class="com.wangzhi.dao.impl.UserDaoImpl" init-method="init" destroy-method="destory"></bean>-->
+<!--    <bean id="userDao" class="com.wangzhi.factory.StaticFactory" factory-method="getUserDao"> </bean>-->
 
-    <bean id="userDao" class="com.wangzhi.dao.impl.UserDaoImpl"></bean>
+    <bean id="factory" class="com.wangzhi.factory.DynamicFactory"></bean>
+    <bean id="userDao" factory-bean="factory" factory-method="getUserDao"/>
+
 
 </beans>
