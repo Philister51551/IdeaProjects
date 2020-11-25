@@ -6,7 +6,7 @@
 <!--    <bean id="userDao" class="com.wangzhi.dao.impl.UserDaoImpl" init-method="init" destroy-method="destory"></bean>-->
 <!--    <bean id="userDao" class="com.wangzhi.factory.StaticFactory" factory-method="getUserDao"> </bean>-->
 
-    <bean id="factory" class="com.wangzhi.factory.DynamicFactory"></bean>
+    <bean id="factory" class="com.wangzhi.factory.DynamicFactory" scope="prototype"></bean>
     <bean id="userDao" factory-bean="factory" factory-method="getUserDao"/>
 
 
