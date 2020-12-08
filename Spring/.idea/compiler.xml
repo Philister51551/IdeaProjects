@@ -6,13 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="wangzhi_spring_ioc" />
         <module name="wangzhi_spring_aop" />
+        <module name="wangzhi_spring_ioc_anno" />
+        <module name="wangzhi_spring_ioc_test" />
+        <module name="wangzhi_spring_ioc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="wangzhi_spring_aop" target="1.5" />
       <module name="wangzhi_spring_ioc" target="1.5" />
+      <module name="wangzhi_spring_ioc_anno" target="1.5" />
+      <module name="wangzhi_spring_ioc_test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
